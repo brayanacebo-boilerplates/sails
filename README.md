@@ -101,7 +101,7 @@ Sails is actively built and maintained by [Balderdash](http://balderdash.co) ([@
 
 [![Mike McNeil](http://gravatar.com/avatar/199046437b76e6ca73e00b4cc182a1c5?s=144)](http://michaelmcneil.com) | [![Cody Stoltman](https://1.gravatar.com/avatar/368567acca0c5dfb9a4ff512c5c0c3fa?s=144)](http://particlebanana.com)
 :---:|:---:|:---:|:---:|:---:
-[Mike McNeil](http://michaelmcneil.com) | [Cody Stoltman](https://github.com/particlebanana) 
+[Mike McNeil](http://michaelmcneil.com) | 
 
 [Balderdash](http://balderdash.co) designs/builds scalable Node.js apps for startups and enterprise customers.  After building a few apps and taking them into production, we realized that the Node.js development landscape was very much still the Wild West.  Over time, after trying lots of different methodologies, we decided to crystallize all of our best practices into this framework.  [I](http://twitter.com/mikermcneil) hope it saves you some time :)
 
